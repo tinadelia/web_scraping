@@ -1,1 +1,1 @@
-# web_scrapping
+-Screenshots of the final application are located in the Resources folder.
